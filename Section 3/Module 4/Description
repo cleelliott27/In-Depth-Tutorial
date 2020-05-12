@@ -1,0 +1,10 @@
+Downloading model source.
+Re-Training the Network with Tensorflow
+  Retrieve/Change Dataset
+  Train/Freeze the model
+  Quantize
+  Compile
+Modify the application to use the new model
+Testing the Detection Model
+  Vitis Analyzer - Vitis AI Profiler Visualization
+Note: NO Changes to the overlay/xclbin are required for this section
