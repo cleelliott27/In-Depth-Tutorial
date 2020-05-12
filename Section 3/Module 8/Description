@@ -1,0 +1,10 @@
+Increasing Pre-Processing Performance using the Vitis Accelerated Libraries
+  Getting the Vitis Libraries
+  Working with the Library Kernels to Create a Pre-Processing Accelerator
+    Drop-in functions
+    Data Flow and Pipelining
+    Custom data widths/interfaces (i.e. large PPC)
+  Modifying the Detection Application to use the Pre-Processing Accelerator
+  Vitis Analyzer for Kernel Development
+  Testing modified application
+Note: This is the first module that should require the user to rebuild the xclbin, this WILL include the integration of the DPU core.
