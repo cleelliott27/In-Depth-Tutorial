@@ -1,0 +1,8 @@
+Increasing Performance using Vitis AI Optimizer
+  Option 1
+    The user want to run the optimizer: user jump to section 6 and completes it.
+  Option 2
+    Optimization workflow and background
+    Pre-optimized model
+    Re-test with pre-optimized model.
+Note: NO Changes to the overlay/xclbin are required for this section
