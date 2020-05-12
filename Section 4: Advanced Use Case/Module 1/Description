@@ -1,0 +1,3 @@
+Real-Time Multi-Network 
+  Face, pose detection, body/object detection
+Gathering data, training, quantizing, optimizing the networks: Tensoflow or PyTorch
