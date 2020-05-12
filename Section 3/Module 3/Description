@@ -1,0 +1,6 @@
+Setting cross-compilation and rootfs
+Compiling a basic/baseline application
+  File-based
+  Pre-built model
+  SW pre/post processing (If needed)
+Note: NO Changes to the overlay/xclbin are required for this section
